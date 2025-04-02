@@ -1,0 +1,4 @@
+[command/toinstall]
+[preservim/nerdtree]
+[junegunn/fzf.vim]
+[nvim-treesitter/nvim-treesitter]

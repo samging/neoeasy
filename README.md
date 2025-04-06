@@ -1,5 +1,5 @@
 ====================================================<br>
-NeoEasy - NeoVim (Beginner friendly IDE)
+NeoEasy - NeoVim (Beginner friendly IDE)<br>
 ====================================================<br>
 **`/plugincfg`** File where those commands are applicable. Nor will not work
 

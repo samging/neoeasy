@@ -1,7 +1,7 @@
-====================================================
+====================================================<br>
 NeoEasy - NeoVim (Beginner friendly IDE)
-====================================================
-**plugincfg** File where those commands are applicable. Nor will not work
+====================================================<br>
+**`/plugincfg`** File where those commands are applicable. Nor will not work
 
 `[]`- Installing script <br>
 `{}`- Startup script (5/4/2025) <br>

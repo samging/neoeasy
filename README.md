@@ -3,6 +3,6 @@ NeoEasy - NeoVim (Beginner friendly IDE)
 ====================================================
 **plugincfg** File where those commands are applicable. Nor will not work
 
-`[]`- Installing script
-\n`{}`- Startup script (5/4/2025)
+`[]`- Installing script <br>
+`{}`- Startup script (5/4/2025)
 `[()]`- Plugin's necessary extensions

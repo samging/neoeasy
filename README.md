@@ -5,5 +5,5 @@ NeoEasy - NeoVim (Beginner friendly IDE)<br>
 **`error.log`** Find all occurent errors with plugins etc.<br>
 
 `[]`- Installing script <br>
-`{}`- Startup script (5/4/2025) <br>
+`{}`- Startup script <br>
 `[()]`- Plugin's necessary extensions

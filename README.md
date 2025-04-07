@@ -7,3 +7,4 @@ NeoEasy - NeoVim (Beginner friendly IDE)<br>
 `[]`- Installing script <br>
 `{}`- Startup script <br>
 `([],...)`- Plugin's necessary extensions
+--Bugs to fix: add bash script for linux users
